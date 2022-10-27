@@ -3,4 +3,11 @@
 2. [O DATASET USADO PODE SER ACESSADO AQUI](https://github.com/Antonio-Borges-Rufino/Big_Data_clientes_supermecado/tree/main/df_tranformados)
 
 ### PIPELINE DE DADOS:
-![](https://github.com/Antonio-Borges-Rufino/Spark_databricks_process/blob/main/PIPE.png)
+![](https://github.com/Antonio-Borges-Rufino/Spark_databricks_process/blob/main/PIPE2.png)
+
+### PROCESSO
+1. AQUI, TRANSFORMEI UMA ANÁLISE DE DADOS + MACHINE LEARNING FEITO EM PANDAS E SCKIT LEARNING 
+2. A TRANSFORMAÇÃO FOI FEITA PARA AGREGAR UM AMBIENTE TOTALMENTE DE BIG DATA, COM OS DADOS GUARDADOS NO HDFS E SENDO PROCESSADOS PELO SPARK
+3. O MODELO TAMBÉM FOI PROCESSADO UTILIZANDO A BIBLIOTECA DE MACHINE LEARNING DISTRIBUIDA DO SPARK
+4. PARA TER ACESSO A DETALHES DO PROJETO SIGA O LINK FEITO NA SEÇÃO 1
+5. [O CÓDIGO FONTE DO PROCESSAMENTO PODE SER ACESSADO AQUI](https://github.com/Antonio-Borges-Rufino/Spark_databricks_process/blob/main/processamento_spark.ipynb)
